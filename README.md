@@ -12,5 +12,10 @@
 ## Citation
 If you find this repository useful, please consider giving a star :star: and cite the following
 ```
-paper.
+@article{bhattacharya2022radiotransformer,
+  title={RadioTransformer: A Cascaded Global-Focal Transformer for Visual Attention-guided Disease Classification},
+  author={Bhattacharya, Moinak and Jain, Shubham and Prasanna, Prateek},
+  journal={arXiv preprint arXiv:2202.11781},
+  year={2022}
+}
 ```
