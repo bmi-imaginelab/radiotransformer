@@ -4,7 +4,7 @@
 17th European Conference on Computer Vision ([ECCV 2022](https://eccv2022.ecva.net/)).
 
 
-![radiotransformer](https://github.com/bmi-imaginelab/radiotransformer/files/9129337/main.pdf)
+![radiotransformer](https://user-images.githubusercontent.com/51439156/179442904-ee939db3-ee31-4f62-8b69-d9e6c928758d.jpg)
 
 ## To do
 - code TBD
